@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\sholo\OneDrive\Desktop\uni\eclipse\ITPworkspace\.metadata\.plugins\org.eclipse.jdt.core
+2818512476.index
+1196153135.index
+3728902293.index
+2839918595.index
+503631284.index
+2872044937.index
+259631053.index
